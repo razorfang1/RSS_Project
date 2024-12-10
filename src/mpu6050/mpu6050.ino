@@ -6,7 +6,7 @@
 Adafruit_MPU6050 mpu;
 
 // IR Sensor Pin
-#define IR_SENSOR_PIN D5
+#define IR_SENSOR_PIN 0
 
 
 void setup() {
