@@ -8,6 +8,17 @@ Watch the project in action
 
 https://private-user-images.githubusercontent.com/61742806/428101034-368e9fab-e0e6-4092-aa44-a3eed2efd205.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMxNzg1MjksIm5iZiI6MTc0MzE3ODIyOSwicGF0aCI6Ii82MTc0MjgwNi80MjgxMDEwMzQtMzY4ZTlmYWItZTBlNi00MDkyLWFhNDQtYTNlZWQyZWZkMjA1Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzI4VDE2MTAyOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ0OTU3YzM5OTcwOGY4NjVlZjliNTFlZmJiZTMyZWI3YjgwNWQyNjQxY2NhNWQzODMzZmEzMDlhYjFmNDJiYzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.3kD29UMJpoLPAIkqaXjMfssmQ2twljbbY8jLxILKVrw
 
+## System Architecture
+
+### Sensor Assignment and Robot Control
+![Sensor Assignment and Robot Control](assets/Sensor_Assignment_Robot_Control.png)
+
+### Data Flow Architecture
+![Sensor Data Flow](assets/Sensor_data_flow.png)
+
+### ESP8266 Sensor Data Publishing
+![ESP8266 Sensor Data Publishing](assets/ESP8266_Sensor_Data_Publishing.png)
+
 ## Hardware Components
 - ESP8266 microcontroller (NodeMCU or similar)
 - MPU6050 accelerometer and gyroscope module
